@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🧑‍🎓 CSE Student at SMVIT.<br> 💻 I am currently diving into Backend Development.<br> 🚀 Passionate about building robust applications.<br> 📚 Actively learning and exploring new technologies.<br> 🤝 Open to collaboration and learning from others.<br> 💡 Problem-solving enthusiast.<br> 🛠️ Building projects to solidify my skills.<br>
+ 🧑‍🎓 engineering sophomore at SMVIT.<br> 💻 I am currently diving into Backend Development.<br> 🚀 Passionate about building robust applications.<br> 📚 Actively learning and exploring new technologies.<br> 🤝 Open to collaboration and learning from others.<br> 💡 Problem-solving enthusiast.<br> 🛠️ Building projects to solidify my skills.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mobi__2400/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mobasshir-shakil-khan-8ba835326/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mobi2400) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mobasshirkhan9931@gmail.com) 
